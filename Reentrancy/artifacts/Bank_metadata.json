@@ -70,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Security/Reentrancy.sol": "Bank"
+			"Security/Reentrancy/Reentrancy.sol": "Bank"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -84,12 +84,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Security/Reentrancy.sol": {
-			"keccak256": "0x33eddffd00bf36c22d46e702f0183a6f13ee7b5962fe2a8d2092a652f0c5981b",
+		"Security/Reentrancy/Reentrancy.sol": {
+			"keccak256": "0x57c4e56f3d2bc2a347d4ec79447571a7d55d45cf843e47aab662944a66472f74",
 			"license": "Unlicense",
 			"urls": [
-				"bzz-raw://7de2dfa3bcd149551d1a7761db95f50c97efe05838a95028ba79da8c732ac35a",
-				"dweb:/ipfs/QmaT8jNJJcGyLdTsrECcHDnPKzAUdRsEFAanHyyq3TY5u2"
+				"bzz-raw://8d22023a2ff17ed0261f8f1e85106d9d24e820ab8ac2872620e53947dc764a56",
+				"dweb:/ipfs/QmaBS9aVGKR1wZ86e4MYSjVALaLc4wgLBMyXvahotPHkGv"
 			]
 		}
 	},
